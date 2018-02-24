@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Analytical" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Analytical.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputionalMethod" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAgAAAAEAAAAAEBAABgAAAQEEAAAAR5AGAUBAA=</HashCode>
+      <FileName>ComputationalMethod.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrankNicholson" Collapsed="true">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrankNicholson.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DuFortFrankel" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAIAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DuFortFrankel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explicit" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Explicit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileHelper" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAJCAAAAAAgAEQAAASAgAAQAAAAAEAAAAAAAAAACA=</HashCode>
+      <FileName>FileHelper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Implicit" Collapsed="true">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBAIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Implicit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laasonen" Collapsed="true">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAACAAAAAAAAACAAAA=</HashCode>
+      <FileName>Laasonen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Numerical" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAAEQCAKAAAEAAhgAAAAACQAgEAAQAAAQIAA=</HashCode>
+      <FileName>Numerical.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Richardson" Collapsed="true">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Richardson.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
